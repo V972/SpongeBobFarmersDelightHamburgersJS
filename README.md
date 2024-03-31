@@ -5,7 +5,11 @@ Reference to [fake Crabby Patty](https://www.youtube.com/watch?v=guBOYBhOcUY)
 Prerequisites
 * MC 1.18
 * Forge
-* Mods: Farmer's Delight, Create, Create: Dreams & Desires
+* Mods:
+    * KubeJS (duh)
+    * Farmer's Delight
+    * Create
+    * Create: Dreams & Desires
 
 ## Funni:
 
