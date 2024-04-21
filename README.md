@@ -1,9 +1,11 @@
-# When the Hamburger is sus
+# When the Hamburger is sus in 1.19.2+
+
+ALL THE HEAVY LIFTING WAS DONE BY V972. I ONLY CHANGED IT TO WORK WITH CURRENT VERSIONS. ORIGINAL: https://github.com/V972/SpongeBobFarmersDelightHamburgersJS
 
 Reference to [fake Crabby Patty](https://www.youtube.com/watch?v=guBOYBhOcUY)
 
 Prerequisites
-* MC 1.18
+* MC 1.19.2+ (Tested only in 1.20.1
 * Forge
 * Mods:
     * KubeJS (duh)
