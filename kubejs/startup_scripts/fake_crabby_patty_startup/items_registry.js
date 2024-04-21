@@ -1,5 +1,5 @@
 // Fake FD Hamburger
-// Funni part
+// Startup part
 // 
 // Reference to mass-produced Crabby Patty
 // 
