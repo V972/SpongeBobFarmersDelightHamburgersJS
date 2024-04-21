@@ -13,6 +13,7 @@
 
 //Old 1.18 Code
 //onEvent("recipes", (event) => {
+
 ServerEvents.recipes(event => {
     let hamburgerShapedClay = "kubejs:hamburger_shaped_clay"
     let hamburgerShapedClayBaked = "kubejs:hamburger_shaped_clay_baked"
